@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_purple">#FF6C5CE7</color>
+    <color name="primary_purple_dark">#FF8B7CF6</color>
+    <color name="accent_teal">#FF2DD4BF</color>
+    <color name="warning_orange">#FFF97316</color>
+    <color name="screen_bg">#FF0F172A</color>
+    <color name="surface_card">#FF1E293B</color>
+    <color name="surface_card_alt">#FF273449</color>
+    <color name="text_primary">#FFF8FAFC</color>
+    <color name="text_secondary">#FF94A3B8</color>
+    <color name="border_soft">#FF334155</color>
+    <color name="hero_start">#FF1E293B</color>
+    <color name="hero_end">#FF12343A</color>
+    <color name="status_teal_bg">#FF123A3A</color>
+    <color name="status_teal_text">#FF5EEAD4</color>
+    <color name="muted_bg">#FF273449</color>
+    <color name="muted_text">#FF94A3B8</color>
+    <color name="slider_inactive">#FF334155</color>
+    <color name="bottom_nav_inactive">#FF94A3B8</color>
+    <color name="dialog_dim">#B3000000</color>
+
+    <color name="purple_200">#FF8B7CF6</color>
+    <color name="purple_500">@color/primary_purple</color>
+    <color name="purple_700">@color/primary_purple_dark</color>
+    <color name="teal_200">@color/accent_teal</color>
+    <color name="teal_700">#FF5EEAD4</color>
+    <color name="accent_warm">@color/warning_orange</color>
+    <color name="accent_coral">@color/warning_orange</color>
+    <color name="success_bg">@color/status_teal_bg</color>
+    <color name="success_text">@color/status_teal_text</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

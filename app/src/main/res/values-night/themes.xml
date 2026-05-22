@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ScreenGuard" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary_purple</item>
+        <item name="colorPrimaryVariant">@color/primary_purple_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/accent_teal</item>
+        <item name="colorSecondaryVariant">@color/accent_teal</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:navigationBarColor">@color/screen_bg</item>
+        <item name="android:statusBarColor">@color/screen_bg</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        <item name="buttonStyle">@style/Widget.ScreenGuard.Button</item>
+        <item name="materialButtonStyle">@style/Widget.ScreenGuard.MaterialButton</item>
+    </style>
+</resources>
